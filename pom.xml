@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mahaboob Snapshot Nexus Repository </name>
-	      <url>http://172.31.32.23:8081/repository/nexus-release/</url>
+	      <url>http://172.31.32.23:8081/repository/nexus-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
